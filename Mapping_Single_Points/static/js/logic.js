@@ -1,5 +1,5 @@
 // Add console.log to check to see if our code is working.
-console.log("working");
+console.log("everything ok");
 
 // Create map object centered around the US with zoom level 4
 let map = L.map('mapid').setView([40.7, -94.5], 4);
