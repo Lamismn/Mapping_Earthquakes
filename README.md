@@ -1,9 +1,9 @@
 # Mapping_Earthquakes
 ## Overview
 This project aim is to map earthquakes data around the globe on an interactive map that allows the user to toggle between different map styles & different data outputs
-## Background
+### Background
 This illustration uses Javascript, leaflet components, html coding & data from the website: https://earthquake.usgs.gov/ to create the interactive map
-# Results
+## Results
 The output of this illustration is a web map that shows the data of earthquakes in the last seven days around the world based on the data from the referenced website.
 The map allows the user to choose between the following data type to show on the map:
 1. Tectonic plates lines as imported from https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.json
